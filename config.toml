@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#FFCB05"  # Color amarillo de Pokémon
+backgroundColor = "#FFFFFF"  # Color de fondo
+secondaryBackgroundColor = "#F0F0F0"  # Color de fondo secundario
+textColor = "#000000"  # Color del texto
