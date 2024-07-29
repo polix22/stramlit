@@ -1,6 +1,6 @@
 **Número de Pokédex:** 151
 **Nombre:** Mew
-**Línea evolutiva:** Mew no tiene líneas evolutivas previas ni posteriores.
-**Tipos:** Psíquico
-**Debilidad:** Fantasma, Siniestro
-**Fuerte contra:** Lucha, Veneno
+**Línea Evolutiva:** Mew es un Pokémon legendario y no tiene evoluciones.
+**Tipo:** Psíquico
+**Debilidad de Tipo:** Siniestro, Fantasma
+**Fuerte Contra:** Lucha, Veneno
